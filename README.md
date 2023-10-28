@@ -1,6 +1,6 @@
 # CPD Projects
 
-CPD Projects of group T&lt;m&gt;&lt;n&gt;G30.
+CPD Projects of group G30.
 
 Group members:
 
